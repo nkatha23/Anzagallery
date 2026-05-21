@@ -4,8 +4,8 @@
     "name": "ARK Labs",
     "type": "Project",
     "description": "Building Open, Programmable Finance",
-    "website": "https://arklabs.xyz",
-    "github": "https://github.com/ArkLabsHQ"
+    "github": "https://github.com/ArkLabsHQ",
+    "community": "https://x.com/ArkLabsHQ"
   },
   {
     "id": "bdk",
@@ -23,7 +23,7 @@
     "description": "Implementation of Bitcoin",
     "website": "https://bitcoincore.org",
     "github": "https://github.com/bitcoin/bitcoin",
-    "community": "https://web.libera.chat/#bitcoin-core-dev"
+    "community": "irc://irc.libera.chat/#bitcoin-core-dev"
   },
   {
     "id": "bitcoin-knots",
@@ -74,7 +74,7 @@
     "name": "Btrust Builders",
     "type": "Education",
     "description": "Empowering open-source Bitcoin builders in Africa",
-    "website": "https://www.btrust.tech",
+    "website": "https://btrust.tech",
     "community": "https://discord.com/invite/wFt6puhmwk"
   },
   {
@@ -99,7 +99,7 @@
     "name": "CryoBrick",
     "type": "Product",
     "description": "Air-gapped cold storage on feature phone",
-    "website": "https://www.cryobrick.com",
+    "website": "https://cryobrick.com",
     "github": "https://github.com/cryobrick",
     "community": "https://discord.com/invite/YGCXhfkbsA"
   },
@@ -108,7 +108,7 @@
     "name": "Fedi",
     "type": "Product",
     "description": "The Private Bitcoin Wallet",
-    "website": "https://www.fedi.xyz",
+    "website": "https://fedi.xyz",
     "github": "https://github.com/fedixyz/fedi",
     "community": "https://t.me/fedibtc"
   },
@@ -126,7 +126,7 @@
     "name": "L402",
     "type": "Project",
     "description": "L402 mimics familiar browser payment flows using the HTTP 402 Payment Required standard",
-    "website": "https://www.l402.org",
+    "website": "https://l402.org",
     "github": "https://github.com/l402-protocol/l402",
     "community": "https://discord.com/invite/2tPYBgWzQm"
   },
@@ -163,7 +163,8 @@
     "type": "Project",
     "description": "Notes and Other Stuff Transmitted by Relays — a decentralized, censorship-resistant social protocol",
     "website": "https://nostr.net",
-    "github": "https://github.com/nostr-protocol/nostr"
+    "github": "https://github.com/nostr-protocol/nostr",
+    "community": "https://t.me/nostr_protocol"
   },
   {
     "id": "p2pool",
@@ -171,7 +172,8 @@
     "type": "Product",
     "description": "Decentralized Bitcoin mining pool that operates without a central server",
     "website": "http://p2pool.in",
-    "github": "https://github.com/p2pool/p2pool"
+    "github": "https://github.com/p2pool/p2pool",
+    "community": "irc://irc.libera.chat/#p2pool"
   },
   {
     "id": "saving-satoshi",
@@ -179,7 +181,8 @@
     "type": "Education",
     "description": "Light-hearted, interactive role-playing game about bitcoin tech",
     "website": "https://savingsatoshi.com",
-    "github": "https://github.com/saving-satoshi/saving-satoshi"
+    "github": "https://github.com/saving-satoshi/saving-satoshi",
+    "community": "https://discord.com/invite/K7aQ5PErht"
   },
   {
     "id": "shopstr",
@@ -187,7 +190,8 @@
     "type": "Product",
     "description": "NOSTR based buy sell site",
     "website": "https://shopstr.store",
-    "github": "https://github.com/shopstr-eng/shopstr"
+    "github": "https://github.com/shopstr-eng/shopstr",
+    "community": "https://t.me/shopstr_eng"
   },
   {
     "id": "silent-payments",
@@ -197,5 +201,14 @@
     "website": "https://silentpayments.xyz",
     "github": "https://github.com/sethforprivacy/silentpaymentsxyz",
     "community": "https://discord.com/invite/BExA2YGsgY"
-  }
+  },
+  {
+  "id": "sparrow",
+  "name": "Sparrow",
+  "type": "Product",
+  "description": "A simple, secure Bitcoin wallet for everyone.",
+  "website": "https://sparrowwallet.com",
+  "github": "https://github.com/sparrowwallet/sparrow",
+  "community": "https://x.com/SparrowWallet"
+}
 ]
