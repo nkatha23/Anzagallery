@@ -4,8 +4,8 @@
     "name": "ARK Labs",
     "type": "Project",
     "description": "Building Open, Programmable Finance",
-    "github": "https://github.com/ArkLabsHQ",
-    "community": ""
+    "website": "https://arklabs.xyz",
+    "github": "https://github.com/ArkLabsHQ"
   },
   {
     "id": "bdk",
@@ -22,7 +22,8 @@
     "type": "Project",
     "description": "Implementation of Bitcoin",
     "website": "https://bitcoincore.org",
-    "github": "https://github.com/bitcoin/bitcoin"
+    "github": "https://github.com/bitcoin/bitcoin",
+    "community": "https://web.libera.chat/#bitcoin-core-dev"
   },
   {
     "id": "bitcoin-knots",
@@ -153,7 +154,8 @@
     "type": "Project",
     "description": "Layer 2 payment protocol built on Bitcoin to enable instant, low-cost, off-chain transactions",
     "website": "https://docs.lightning.engineering",
-    "github": "https://github.com/lightningnetwork/lnd"
+    "github": "https://github.com/lightningnetwork/lnd",
+    "community": "https://lightning.engineering/slack.html"
   },
   {
     "id": "nostr",
