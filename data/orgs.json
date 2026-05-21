@@ -5,7 +5,8 @@
     "type": "Project",
     "description": "Building Open, Programmable Finance",
     "github": "https://github.com/ArkLabsHQ",
-    "community": ""
+    "community": "",
+    "website": "https://arklabs.to"
   },
   {
     "id": "bdk",
