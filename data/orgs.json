@@ -210,5 +210,23 @@
   "website": "https://sparrowwallet.com",
   "github": "https://github.com/sparrowwallet/sparrow",
   "community": "https://x.com/SparrowWallet"
-}
+},
+  {
+    "id": "stratum-v2",
+    "name": "Stratum V2",
+    "type": "Project",
+    "description": "The next generation protocol for pooled mining, designed to improve security, efficiency, and decentralization",
+    "website": "https://stratumprotocol.org",
+    "github": "https://github.com/stratum-mining/stratum",
+    "community": "https://discord.com/invite/fsEW23wFYs"
+  },
+  {
+    "id": "validating-lightning-signer",
+    "name": "Validating Lightning Signer",
+    "type": "Project",
+    "description": "A signer for Lightning Network nodes that validates and signs transactions in a secure enclave",
+    "website": "https://vls.tech",
+    "github": "https://github.com/lightning-signer/validating-lightning-signer",
+    "community": "https://matrix.to/#/#vls-community:matrix.org"
+  }
 ]
