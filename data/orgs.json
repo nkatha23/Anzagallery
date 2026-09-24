@@ -228,5 +228,14 @@
     "website": "https://vls.tech",
     "github": "https://github.com/lightning-signer/validating-lightning-signer",
     "community": "https://matrix.to/#/#vls-community:matrix.org"
+  },
+  {
+    "id": "zeus",
+    "name": "ZEUS",
+    "type": "Product",
+    "description": "An open-source, non-custodial Bitcoin and Lightning wallet that gives you full control over your finances",
+    "website": "https://zeusln.com",
+    "github": "https://github.com/ZeusLN/zeus",
+    "community": "https://t.me/zeusLN"
   }
 ]
